@@ -177,7 +177,7 @@ This domain controller with will be built with appropriate server tools such as 
 
 **NOTE:** This will take some time but if you want to confirm if the users are being created, go to "Active Directory and Users and Computers"
 
-**Once the creation is done and successful you can spin up a Windows 10 Enterprise machine but while creating the VM in Oraclebox you set the network to "Internal Network" so that the client machine can talk to the Domain Controller.
+**Once the creation is done and successful you can spin up a Windows 10 Enterprise machine but while creating the VM in Oraclebox you set the network to "Internal Network" so that the client machine can talk to the Domain Controller.**
 
 ![](https://imgur.com/g3VQl5w.png)
 
