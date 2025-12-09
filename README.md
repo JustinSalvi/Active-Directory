@@ -1,4 +1,4 @@
-# How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell
+# How to Setup a Basic Home Lab Running Active Directory with Oracle VirtualBox and Automating User Creation via Powershell!
 
 ## Project Summary
 
