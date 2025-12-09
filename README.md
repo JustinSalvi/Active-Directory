@@ -185,4 +185,4 @@ This domain controller with will be built with appropriate server tools such as 
 
 ### Conclusion
 
-So we created a small home office network consisting of a Microsoft Server 2019 acting as a domain controller and a client machine that is a part of the internal network, we also streamlined a user creation automation process through powershell to prevent any human errors and ensure a quick and easy process!
+**So we created a small home office network consisting of a Microsoft Server 2019 acting as a domain controller and a client machine that is a part of the internal network, we also streamlined a user creation automation process through powershell to prevent any human errors and ensure a quick and easy process!**
