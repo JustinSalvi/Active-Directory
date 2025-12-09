@@ -183,6 +183,6 @@ This domain controller with will be built with appropriate server tools such as 
 
 **To login use one of the users that you have created earlier from the script or simply use your own username that you put in the text file before execution.**
 
-***Conclusion**
+### Conclusion
 
 So we created a small home office network consisting of a Microsoft Server 2019 acting as a domain controller and a client machine that is a part of the internal network, we also streamlined a user creation automation process through powershell to prevent any human errors and ensure a quick and easy process!
