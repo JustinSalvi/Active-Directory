@@ -29,6 +29,8 @@ This domain controller with will be built with appropriate server tools such as 
 
 ![Microsoft Windows 10 Enterprise ISO](https://www.microsoft.com/en-us/software-download/windows10)
 
+**Once you have successfully created and spun up your MS 2019 server, check out the network settings by going to "Control Panel>Network and Internet>Network Connections"**
+
 **Figure out which network interface is your internal and external, by doing that you can open up each interface's properties by inspecting the IP address (10.X.X.X is your home network A.K.A your external network) so that leaves us with "Ethernet 2" as our internal and I'm renaming these for my sake.**
 
 ![](https://imgur.com/Tahq0Wr.png)
